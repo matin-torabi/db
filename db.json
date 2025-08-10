@@ -149,11 +149,11 @@
         {"id":1, "image":"https://matin-torabi.github.io/image/category/img-1.png", "alt":"Test"},
         {"id":2, "image":"https://matin-torabi.github.io/image/category/img-2.png", "alt":"Test"},
         {"id":3, "image":"https://matin-torabi.github.io/image/category/img-3.png", "alt":"Test"},
-        {"id":3, "image":"https://matin-torabi.github.io/image/category/img-4.png", "alt":"Test"},
-        {"id":3, "image":"https://matin-torabi.github.io/image/category/img-5.png", "alt":"Test"},
-        {"id":3, "image":"https://matin-torabi.github.io/image/category/img-6.png", "alt":"Test"},
-        {"id":3, "image":"https://matin-torabi.github.io/image/category/img-7.png", "alt":"Test"},
-        {"id":3, "image":"https://matin-torabi.github.io/image/category/img-9.png", "alt":"Test"}
+        {"id":4, "image":"https://matin-torabi.github.io/image/category/img-4.png", "alt":"Test"},
+        {"id":5, "image":"https://matin-torabi.github.io/image/category/img-5.png", "alt":"Test"},
+        {"id":6, "image":"https://matin-torabi.github.io/image/category/img-6.png", "alt":"Test"},
+        {"id":7, "image":"https://matin-torabi.github.io/image/category/img-7.png", "alt":"Test"},
+        {"id":8, "image":"https://matin-torabi.github.io/image/category/img-9.png", "alt":"Test"}
     ],
     "brand":[
         {"id":1, "image":"https://matin-torabi.github.io/image/brand/logo-1.jpg", "alt":"Test"},
